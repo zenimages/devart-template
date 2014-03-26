@@ -4,4 +4,6 @@ Hammond was referring another author of that time, Ernest Govett, who did a rese
 
 _“An art is the beautiful representation of nature for the purpose of giving disinterested pleasure”_.
 
+![Art Principles Cover](../project_images/art_principles_cover.jpg?raw=true)
+
 And since we tend to apply a knowledge to our profession, I has applied it to software development, where I has been for more that 13 years. From that phrase the idea of creating a software as an art has come into my mind.
