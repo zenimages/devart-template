@@ -21,7 +21,7 @@ cpw_rgb['16-0847']='rgb(173,141,48)';
 cpw_name['16-0847']='Olive Oil';
 cpw_idx['Olive Oil']='16-0847';
 ```
-Colors names are taken from the indexed color palette, which contains as many colors as possible (2000+ from [Pantone](http://pantone.com/) is used in the prototype). 
+Color names are taken from the indexed color palette, which contains as many colors as possible (so far, prototype is using 2000+ from [Pantone](http://pantone.com/)). 
 
 ## Links to External Libraries
 Tampermonkey extension ([Chrome Web Store](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)) ([official site](http://tampermonkey.net/)) for Google Chrome is required for an easy installation of the prototype (though it can be still installed in a standard way).
