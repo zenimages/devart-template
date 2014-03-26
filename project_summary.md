@@ -24,9 +24,9 @@ cpw_idx['Olive Oil']='16-0847';
 Colors names are taken from the indexed color palette, which contains as many colors as possible ([Pantone TCX](http://pantone.com/) is used in the prototype). 
 
 ## Links to External Libraries
-[TamperMonkey extension](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) for Google Chrome is required for an easy installation of the prototype (though it still can be installed in a standard way).
+TamperMonkey extension ([Chrome Web Store](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)) ([official site](http://tampermonkey.net/)) for Google Chrome is required for an easy installation of the prototype (though it still can be installed in a standard way).
 
-[Greasemonkey add-on](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) is required to install the prototype into Mozilla Firefox ([GitHub](https://github.com/greasemonkey/greasemonkey/)).
+Greasemonkey ([Firefox add-on](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/)) is required to install the prototype into Mozilla Firefox ([GitHub](https://github.com/greasemonkey/greasemonkey/)).
 
 ## Images & Videos
 Having the extension installed and while searching in Google Images, the color palette appears at the top and the search results then are displayed on a correspondent background of a selected color:
