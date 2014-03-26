@@ -1,33 +1,38 @@
-# Project Title
-ZenImages
+# ZenImages 
+
+***“An art is the beautiful representation of nature for the purpose of giving disinterested pleasure”*** (Ernest Govett, _Art Principles_, 1919)
 
 ## Authors
-- Insert main author name, surname, github account
-- Insert other author(s) name, surname, github account (one per list element)
+Ivan Khvostishkov, http://github.com/zenimages
 
 ## Description
-Insert a description containing about 100 to 150 words, including your motivation and the meaning behind your idea and execution. The Judges will be keen to know how your idea pushes the boundaries of code and technology. 
+ZenImages is an art project with an extension to Google Images to refine the user interface by searching only selected color names.
+
+The motivation of this project is to convey the mood, created by the beauty of color. It proves that we perceive colors not as just physical combinations of seven hues of the rainbow. The beauty of nature is in its enchanting colorfulness inherent to the real-world objects and ZenImages makes it able to demonstrate this with the means of Google search API. 
 
 ## Link to Prototype
-NOTE: If your project lives online you can add one or more links here. Make sure you have a stable version of your project running before linking it.
 
-[Example Link](http://www.google.com "Example Link")
+Compiled version of [ZenImages](http://userscripts.org/scripts/show/405936) is available to install from [userscripts.org](http://userscripts.org/).
 
 ## Example Code
-NOTE: Wrap your code blocks or any code citation by using ``` like the example below.
+Just to give an idea, how it works, the core of the extension is a database of color entries, like this:
+```javascript
+cpw_rgb['16-0847']='rgb(173,141,48)';
+cpw_name['16-0847']='Olive Oil';
+cpw_idx['Olive Oil']='16-0847';
 ```
-function test() {
-  console.log("Printing a test");
-}
-```
-## Links to External Libraries
- NOTE: You can also use this space to link to external libraries or Github repositories you used on your project.
+Colors names are taken from the indexed color palette, which contains as many colors as possible ([Pantone TCX](http://pantone.com/) is used in the prototype). 
 
-[Example Link](http://www.google.com "Example Link")
+## Links to External Libraries
+[TamperMonkey extension](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) for Google Chrome is required for an easy installation of the prototype (though it still can be installed in a standard way).
+
+[Greasemonkey add-on](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) is required to install the prototype into Mozilla Firefox ([GitHub](https://github.com/greasemonkey/greasemonkey/)).
 
 ## Images & Videos
-NOTE: For additional images you can either use a relative link to an image on this repo or an absolute link to an externally hosted image.
+Having the extension installed and while searching in Google Images, the color palette appears at the top and the search results then are displayed on a correspondent background of a selected color:
 
-![Example Image](project_images/cover.jpg?raw=true "Example Image")
+![Olive Oil Screenshot](project_images/olive_oil_screenshot.png?raw=true)
 
-https://www.youtube.com/watch?v=30yGOxJJ2PQ
+A set of 500+ screenshots is available as a video presentation: 
+
+TBD

@@ -1,16 +1,23 @@
 {
     "technologies": {
         "apis": [
-            "insert apis"
+            "CustomSearch API",
+            "Google Images"
         ],
         "platforms": [
-            "insert platforms"
+            "Chrome Apps",
+            "Google Chrome",
+            "Mozilla Firefox"
         ],
         "toolkits": [
-            "insert toolkits"
+            "TamperMonkey",
+            "Greasemonkey"
         ]
     },
     "themes": [
-        "insert themes"
+        "search",
+        "images",
+        "colors",
+        "zen"
     ]
 }
