@@ -5,12 +5,11 @@
             "Google Images"
         ],
         "platforms": [
-            "Chrome Apps",
             "Google Chrome",
             "Mozilla Firefox"
         ],
         "toolkits": [
-            "TamperMonkey",
+            "Tampermonkey",
             "Greasemonkey"
         ]
     },

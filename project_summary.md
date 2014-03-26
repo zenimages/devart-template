@@ -8,7 +8,7 @@ Ivan Khvostishkov, http://github.com/zenimages
 ## Description
 ZenImages is an art project with an extension to Google Images to refine the user interface by searching only selected color names.
 
-The motivation of this project is to convey the mood, created by the beauty of color. It proves that we perceive colors not as just physical combinations of seven hues of the rainbow. The beauty of nature is in its enchanting colorfulness inherent to the real-world objects and ZenImages makes it able to demonstrate this with the means of Google search API. 
+The motivation of this project is to convey the mood, created by the beauty of color. It proves that we perceive the colors not as just physical combinations of seven hues of the rainbow. The beauty of nature is in its enchanting colorfulness inherent to the real-world objects and ZenImages makes it able to demonstrate this with the means of Google search API. 
 
 ## Link to Prototype
 
@@ -24,12 +24,12 @@ cpw_idx['Olive Oil']='16-0847';
 Colors names are taken from the indexed color palette, which contains as many colors as possible ([Pantone TCX](http://pantone.com/) is used in the prototype). 
 
 ## Links to External Libraries
-TamperMonkey extension ([Chrome Web Store](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)) ([official site](http://tampermonkey.net/)) for Google Chrome is required for an easy installation of the prototype (though it still can be installed in a standard way).
+Tampermonkey extension ([Chrome Web Store](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)) ([official site](http://tampermonkey.net/)) for Google Chrome is required for an easy installation of the prototype (though it can be still installed in a standard way).
 
 Greasemonkey ([Firefox add-on](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/)) is required to install the prototype into Mozilla Firefox ([GitHub](https://github.com/greasemonkey/greasemonkey/)).
 
 ## Images & Videos
-Having the extension installed and while searching in Google Images, the color palette appears at the top and the search results then are displayed on a correspondent background of a selected color:
+Having the extension installed and while searching in Google Images, the color palette appears at the top and the search results then are displayed on a correspondent background of the selected color:
 
 ![Olive Oil Screenshot](project_images/olive_oil_screenshot.png?raw=true)
 
