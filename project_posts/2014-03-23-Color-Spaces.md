@@ -1,4 +1,4 @@
-The more pictures I took, the more I learned about the color. Then I've bought a wide-gamut monitor (Dell U2711), and then, being puzzled by acid greens and reds, a colorimeter (X-Rite ColorMunki Display). That's how I've introduced myself to the [color spaces](http://en.wikipedia.org/wiki/Color_space).
+The more pictures I took, the more I learned about the color. Then I've bought a wide-gamut monitor, and then, being puzzled by acid greens and reds, a colorimeter. That's how I've introduced myself to the [color spaces](http://en.wikipedia.org/wiki/Color_space).
 
 Being a Linux adept for years, I started to play with [Argyll Color Management System](http://www.argyllcms.com/) and its [dispcalGUI](http://dispcalgui.hoech.net/) assistant. It had so many settings and it puzzled me lot!
 
