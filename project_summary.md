@@ -12,7 +12,7 @@ The motivation of this project is to convey the mood, created by the beauty of c
 
 ## Link to Prototype
 
-Compiled version of [ZenImages](http://userscripts.org/scripts/show/405936) is available to install from [userscripts.org](http://userscripts.org/).
+Compiled version is available to install from [userscripts.org](http://userscripts.org/scripts/show/405936).
 
 ## Example Code
 Just to give an idea, how it works, the core of the extension is a database of color entries, like this:
