@@ -2,15 +2,17 @@ I was thinking about color names for weeks. I've learned that there are so many 
 
 I've found that there are some palettes already available, and the first prominent one was Pantone TCX, because it contains not only 2100 color codes but also the names for them. I was playing with apps that can show RGB values for these colors (plenty of them are available in Google Play) and the idea to create ZenImages just came like a shot.
 
-I've started from a local HTML file and GVIM editor, step-by-step incorporating the widget, the scroll and the JavaScript logic, built around the Google Images interface:
+I've quickly started from a local HTML file and GVIM editor, step-by-step incorporating the widget, the scroll and the JavaScript logic, built around the Google Images interface:
 
 ![GVIM](../project_images/gvim.png?raw=true)
 
 I've used [Inkscape](http://www.inkscape.org/) to draw a [circle pointer](https://github.com/zenimages/devart-template/blob/master/project_code/selectedColor.png) and then embedded it as data-URL, because the script must be standalone.
 
-The script is developed and debugged as [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) extension in Firefox and in Google Chrome, while later is used to find _redundant_ elements in the Google interface with DevTools:
+Develompent is done as [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) extension in Firefox and in Google Chrome, while later is used to find _redundant_ elements in the Google interface with DevTools:
 
 ![DevTools](../project_images/devtools.png?raw=true)
+
+These elements are then removed by the widget to build a simple and minimalistic interface. It also detects the current color from a search query and places the circle pointer onto it. 
 
 Of course, the [Makefile](https://github.com/zenimages/devart-template/blob/master/project_code/Makefile) quickly evolves.
 
