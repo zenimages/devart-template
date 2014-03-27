@@ -8,7 +8,7 @@ I've quickly started from a local HTML file and GVIM editor, step-by-step incorp
 
 I've used [Inkscape](http://www.inkscape.org/) to draw a [circle pointer](https://github.com/zenimages/devart-template/blob/master/project_code/selectedColor.png) and then embedded it as data-URL, because the script must be standalone.
 
-Develompent is done as [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) extension in Firefox and in Google Chrome, while later is used to find _redundant_ elements in the Google interface with DevTools:
+Development is done as [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) extension in Firefox and in Google Chrome, while later is used to find _redundant_ elements in the Google interface with DevTools:
 
 ![DevTools](../project_images/devtools.png?raw=true)
 
