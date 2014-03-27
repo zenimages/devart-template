@@ -6,6 +6,8 @@ I've started from a local HTML file and GVIM editor, step-by-step incorporating 
 
 ![GVIM](../project_images/gvim.png?raw=true)
 
+I've used [Inkscape](http://www.inkscape.org/) to draw a [circle pointer](https://github.com/zenimages/devart-template/blob/master/project_code/selectedColor.png) and then embedded it as data-URL, because the script must be standalone.
+
 The script is developed and debugged as [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) extension in Firefox and in Google Chrome, while later is used to find _redundant_ elements in the Google interface with DevTools:
 
 ![DevTools](../project_images/devtools.png?raw=true)
