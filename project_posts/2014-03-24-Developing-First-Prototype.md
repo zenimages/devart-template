@@ -4,18 +4,14 @@ I've found that there are some palettes already available, and the first promine
 
 I've quickly started from a local HTML file and GVIM editor, step-by-step incorporating the widget, the scroll and the JavaScript logic, built around the Google Images interface.
 
-I've used [Inkscape](http://www.inkscape.org/) to draw a [circle pointer](https://github.com/zenimages/devart-template/blob/master/project_code/selectedColor.png) and then embedded it as data-URL, because the script must be standalone.
-
 Development is done as [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) extension in Firefox and in Google Chrome, while later is used to find _redundant_ elements in the Google interface with DevTools:
 
 ![DevTools](../project_images/devtools.png?raw=true)
 
-These elements are then removed by the widget to build a simple and minimalistic interface. It also detects the current color from a search query and places the circle pointer onto it. 
+These elements are then removed by the widget to build a simple and minimalistic interface. It also detects the current color from the search query and places the [circle pointer](https://github.com/zenimages/devart-template/blob/master/project_code/selectedColor.png) onto it (drawn with [Inkscape](http://www.inkscape.org/)). The script must be standalone, so PNG is further converted to data-URL and inlined to CSS.
 
 Of course, the [Makefile](https://github.com/zenimages/devart-template/blob/master/project_code/Makefile) quickly evolves.
 
-GVIM is a very handy tool in automatic processing of files and it was easy to format [tpxColors](https://github.com/zenimages/devart-template/blob/master/project_code/tpxColors) and then convert it to [HTML](https://github.com/zenimages/devart-template/blob/master/project_code/tpxColors.html). Those who are not very good with [vim](http://www.vim.org/) or other powerful text editor tend to write code for parsing text files, but I find it an absolutete overhead since it's a one-time task and the code will be non-reusable anyway.
-
-![GVIM](../project_images/gvim.png?raw=true)
+GVIM is a very handy tool in automatic processing of files and it was easy to format [tpxColors](https://github.com/zenimages/devart-template/blob/master/project_code/tpxColors) and then convert it to [HTML](https://github.com/zenimages/devart-template/blob/master/project_code/tpxColors.html). Those who are not very good with [vim](http://www.vim.org/) or other powerful text editor tend to write code for parsing text files, but I find it an absolutete overhead when it's a one-time task and the code will be non-reusable anyway.
 
 Just one bug was found: I've figured out that some colors have quotes, so it resulted a syntax error in JavaScript code. More testing is done, Makefile is updating, the code is compressed with [Closure Compiler](http://closure-compiler.appspot.com/home) and I start to feel the release point.
