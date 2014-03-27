@@ -12,7 +12,7 @@ At some distance from the wall, there is a touch pad. The distance depends on si
 
 The screen and touch pad are connected and controlled from a desktop or laptop PC behind the wall (not visible). 
 
-Two lamps on the ceiling are professional lighting systems for creating a soft ambient light with a color temperature, close to the daylight. Spotlights should be carefully avoided (this is the worst thing that could happen at the exhibition — I visited [Hermitage museum](http://www.hermitagemuseum.org/) in St. Petersburg (Russia) couple of months ago, and some paintings were lit with harsh sunlight from windows, causing a few or even no details visible).
+Two lamps on the ceiling (not visible) are professional lighting systems for creating a soft ambient light with a color temperature, close to the daylight. Spotlights should be carefully avoided (this is the worst thing that could happen at the exhibition — I visited [Hermitage museum](http://www.hermitagemuseum.org/) in St. Petersburg (Russia) couple of months ago, and some paintings were lit with harsh sunlight from windows, causing a few or even no details visible).
 
 The colors are changed in a looped manner, like a screensaver. When somebody touches the pad, ZenImages pauses and goes into interactive mode so that the visitor can choose an arbitrary color or scroll down search results for more images. After some time of inactivity, the screensaver mode returns back.
 
