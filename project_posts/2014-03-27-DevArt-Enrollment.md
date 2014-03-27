@@ -17,7 +17,3 @@ Two lamps on the ceiling (not visible) are professional lighting systems for cre
 The colors are changed in a looped manner, like a screensaver. When somebody touches the pad, ZenImages pauses and goes into interactive mode so that the visitor can choose an arbitrary color or scroll down search results for more images. After some time of inactivity, the screensaver mode returns back.
 
 So that's it.
-
-In the novel _The Catcher in the Rye_ there is a phrase which Mr. Thurner said to Caulfield, and in the spirit of DevArt contest, I'm summarizing my work by replacing some words in it:
-
-_“Software is an art, boy. Software is an art that one produces according to the user requirements.”_
