@@ -33,6 +33,6 @@ Having the extension installed and while searching in Google Images, the color p
 
 ![Olive Oil Screenshot](project_images/olive_oil_screenshot.png?raw=true)
 
-A set of 500+ screenshots is available as a video presentation: 
+A set of 500+ screenshots is available as a video presentation (no sound): 
 
 http://www.youtube.com/watch?v=Jdtv5mGx1l8&hd=1
