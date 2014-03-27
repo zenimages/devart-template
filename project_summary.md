@@ -12,7 +12,7 @@ The motivation of this project is to convey the mood, created by the beauty of c
 
 ## Link to Prototype
 
-Compiled version is available to install from [userscripts.org](http://userscripts.org/scripts/show/405936).
+Compiled version is available to install from [userscripts.org](http://userscripts.org/scripts/show/405936) ([source code](https://github.com/zenimages/devart-template/blob/master/project_code/zenimages.min.user.js)).
 
 ## Example Code
 Just to give an idea, how it works, the core of the extension is a database of color entries, like this:
@@ -35,4 +35,4 @@ Having the extension installed and while searching in Google Images, the color p
 
 A set of 500+ screenshots is available as a video presentation: 
 
-TBD
+http://www.youtube.com/watch?v=Jdtv5mGx1l8&hd=1
