@@ -1,8 +1,8 @@
 I was thinking about color names for weeks. I've learned that there are so many colors, so just _greenish-yellow_ or _yellowish-green_ is nothing about the color due to [chromatic adaptation](http://en.wikipedia.org/wiki/Chromatic_adaptation). Two hues can simply be the same color for human, since our brain don't normally think about colors in terms of numbers. 
 
-I've found that there are some palettes already available, and the first prominent one was Pantone TCX, because it contains not only 2100 color codes but also the names for them. I was playing with apps that can show RGB values for these colors (plenty of them are available in Google Play) and an idea to create ZenImages just came like a shot.
+I've found that there are some palettes already available, and the first prominent one was Pantone TCX, because it contains not only 2100 color codes but also the names for them. I was playing with apps that can show RGB values for these colors (plenty of them are available in Google Play) and the idea to create ZenImages just came like a shot.
 
-I've started from a local HTML file and GVIM editor, step-by-step incorporating the widget scroll and the JavaScript logic, built around the Google Images interface:
+I've started from a local HTML file and GVIM editor, step-by-step incorporating the widget, the scroll and the JavaScript logic, built around the Google Images interface:
 
 ![GVIM](../project_images/gvim.png?raw=true)
 
