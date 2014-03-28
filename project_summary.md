@@ -36,3 +36,4 @@ Having the extension installed and while searching in Google Images, the color p
 A set of 500+ screenshots is available as a video presentation (no sound): 
 
 http://www.youtube.com/watch?v=Jdtv5mGx1l8&hd=1
+
