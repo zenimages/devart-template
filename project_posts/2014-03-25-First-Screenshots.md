@@ -16,7 +16,7 @@ By the end of day the first prototype is ready and I feel completely amazed. I q
 
 ![Screenshot 4](../project_images/s4.png?raw=true)
 
-*[Blueprint](http://google.com/search?tbm=isch&q=Blueprint)*
+*[BluePrint](http://google.com/search?tbm=isch&q=BluePrint)*
 
 ![Screenshot 5](../project_images/s5.png?raw=true)
 
