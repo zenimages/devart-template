@@ -12,7 +12,7 @@ The motivation of this project is to convey the mood, created by the beauty of c
 
 ## Link to Prototype
 
-Compiled version is available to install from [userscripts.org](http://userscripts.org/scripts/show/405936) ([GitHub](https://github.com/zenimages/devart-template/blob/master/project_code/zenimages.min.user.js)).
+Compiled version is available to install from [userscripts.org](http://userscripts.org/scripts/show/405936) (non-minified — [GitHub](https://github.com/zenimages/devart-template/blob/master/project_code/zenimages.user.js)).
 
 ## Example Code
 Just to give an idea, how it works, the core of the extension is a database of color entries, like this:
